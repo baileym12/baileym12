@@ -1,5 +1,5 @@
 # Hello, I'm Bailey
-<a href="https://linkedin.com/baileym12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/btmaste"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a honors Computer Science student at Clemson University with a 4.0 GPA specializing in Software Development and Cybersecurity.
 
