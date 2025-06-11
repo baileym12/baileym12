@@ -46,6 +46,7 @@ A comprehensive detection lab featuring:
 - **Suricata IDS/IPS** for network monitoring
 - **Sysmon** for advanced Windows endpoint visibility
 - **Kali Linux** attack simulations
+
 [![View Project](https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/baileym12/virtual-cybersecurity-lab)
 
 
