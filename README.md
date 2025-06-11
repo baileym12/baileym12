@@ -11,11 +11,11 @@ I'm passionate about building secure systems and developing defensive strategies
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Virtual Cybersecurity Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Network Traffic Monitoring (Suricata IDS/IPS) | [Virtual Cybersecurity Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Endpoint Security Monitoring (Sysmon/Wazuh)   | [Virtual Cybersecurity Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Attack Simulation & Detection                 | [Virtual Cybersecurity Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Security Automation & Correlation Rules       | [Virtual Cybersecurity Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
+| SIEM Implementation and Log Analysis          | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
+| Network Traffic Monitoring (Suricata IDS/IPS) | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
+| Endpoint Security Monitoring (Sysmon/Wazuh)   | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
+| Attack Simulation & Detection                 | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
+| Security Automation & Correlation Rules       | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
 
 ## Tools
 
