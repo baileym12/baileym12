@@ -11,13 +11,15 @@ I'm passionate about building secure systems and developing defensive strategies
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Network Traffic Monitoring (Suricata IDS/IPS) | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Endpoint Security Monitoring (Sysmon/Wazuh)   | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Attack Simulation & Detection                 | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
-| Security Automation & Correlation Rules       | [Virtual Lab](https://github.com/baileym12/virtual-cybersecurity-lab) |
+| SIEM Implementation and Log Analysis          | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
+| Network Traffic Monitoring (Suricata IDS/IPS) | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
+| Endpoint Security Monitoring (Sysmon/Wazuh)   | [Threat Detection Labb](https://github.com/baileym12/threat-detection-lab) |
+| Attack Simulation & Detection                 | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
+| Security Automation & Correlation Rules       | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
 
 ## Tools
+
+
 
 ### Security Monitoring
 <div>
@@ -40,14 +42,14 @@ I'm passionate about building secure systems and developing defensive strategies
 
 ## Projects
 
-### Virtual Cybersecurity Lab 
+### Threat Detection Lab
 A comprehensive detection lab featuring:
 - **Wazuh SIEM** for centralized log analysis
 - **Suricata IDS/IPS** for network monitoring
 - **Sysmon** for advanced Windows endpoint visibility
 - **Kali Linux** attack simulations
 
-[![View Project](https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/baileym12/virtual-cybersecurity-lab)
+[![View Project](https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/baileym12/threat-detection-lab)
 
 
 <!--
