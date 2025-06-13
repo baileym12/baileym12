@@ -5,7 +5,7 @@ I am an Honors Computer Science student at Clemson University with a 4.0 GPA spe
 
 ## Objective
 
-I'm passionate about building secure systems and developing defensive strategies against modern cyber threats. I'm particularly interested in opportunities where I can apply my security monitoring and threat detection skills in collaborative environments.
+I'm passionate about building secure systems and developing defensive strategies against modern cyber threats. I'm particularly interested in opportunities where I can apply my technical skills to create secure, efficient systems while working with others in a collaborative environment.
 
 ## Skills
 
@@ -13,7 +13,7 @@ I'm passionate about building secure systems and developing defensive strategies
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
 | Network Traffic Monitoring (Suricata IDS/IPS) | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
-| Endpoint Security Monitoring (Sysmon/Wazuh)   | [Threat Detection Labb](https://github.com/baileym12/threat-detection-lab) |
+| Endpoint Security Monitoring (Sysmon/Wazuh)   | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
 | Attack Simulation & Detection                 | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
 | Security Automation & Correlation Rules       | [Threat Detection Lab](https://github.com/baileym12/threat-detection-lab) |
 
